@@ -1,0 +1,74 @@
+{
+	"Name": "Cinéma Cineplex Odeon Quartier Latin",
+	"Address": "350 rue Emery, Montréal, QC, H2X 1J1",
+	"Phone": "(514) 849-2244",
+	"Price_G": "11.99",
+	"Website_url": "http://www.cineplex.com/Theatre/cinema-cineplex-odeon-quartier-latin",
+	"Films": {
+		"12-06-2016": [
+						{
+							"Name": "Angry birds le film (Version française)",
+							"Type": ["Comédie", "Famille"],
+							"Hours":["12:05","16:35","18:50"],
+							"Duration": "1:35",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24460_320_470.jpg"
+						},
+						{
+							"Name": "Les Tortues Ninja: La sortie de l ombre",
+							"Type": ["Action", "Adventure"],
+							"Hours":["12:55","18:30","21:15"],
+							"Duration": "1:52",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24637_320_470.jpg"
+						},
+						{
+							"Name": "Alice de l autre côté du miroir",
+							"Type": ["Famille", "Fantaisie"],
+							"Hours":["13:15","4:00","18:45","9:50"],
+							"Duration": "1:53",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24322_320_470.jpg"
+						},
+						{
+							"Name": "Warcraft (Version française)",
+							"Type": ["Action","Aventure","Fantaisie"],
+							"Hours":["12:50","18:40", "21:40"],
+							"Duration": "2:03",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24676_320_470.jpg"
+						},
+						{
+							"Name": "X-Men: Apocalypse",
+							"Type": ["Action","Aventure"],
+							"Hours":["12:30","15:35","18:45","21:05"],
+							"Duration": "2:24",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/22286_130_193.jpg"
+						},
+						{
+							"Name": "X-Men: Apocalypse (Version française)",
+							"Type": ["Action","Aventure"],
+							"Hours":["12:45","15:50","18:55","21:20"],
+							"Duration": "2:24",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24503_130_193.jpg"
+						},
+						{
+							"Name": "Amour & Amitié (anglais avec s.t.f.)",
+							"Type": "Documentaire",
+							"Hours":["12:05","17:05","19:20","21:35"],
+							"Duration": "1:32",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24928_130_193.jpg"
+						},
+						{
+							"Name": "Avant toi",
+							"Type": ["Drame","Romance"],
+							"Hours":["12:00","14:30","17:00","19:30","22:00"],
+							"Duration": "1:51",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24622_320_470.jpg"
+						},
+						{
+							"Name": "Capitaine America: La guerre civile",
+							"Type": "Aventure,Action",
+							"Hours":["12:25","15:35","6:45","20:50"],
+							"Duration": "2:28",
+							"Img_url":"http://mediafiles.cineplex.com/Central/Film/Posters/24323_130_193.jpg"
+						}
+					  ]		
+	}
+}
